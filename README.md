@@ -34,7 +34,7 @@ This Python script implements a simple Student Management System using the Tkint
 4. Run the script:
 
    ```bash
-   python script_name.py
+   python Student.ipynb
    ```
 
 5. Use the GUI to perform various operations on student records.
